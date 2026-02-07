@@ -10,7 +10,7 @@ Just run the python file "Breakout.py" and play!
 # How it was made
 Codeded in pyhton. Used the library Pygame.
 
-#Note
+# Note:
 Please let me know if there are any bugs.
 
 Royalty-free music track "Pixel" was made by Robloxeur and obtained through "pixabay". Find it here
