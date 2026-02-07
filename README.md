@@ -1,6 +1,9 @@
 # Breakout
 First time making games with python. Made for Hackclub. Initially was supposed to make pong but decided Breakout would be more fun and challenging
 
+![breakout_image](breakout_image.png)
+
+
 # How to use
 Just run the python file "Breakout.py" and play!
 
