@@ -1,5 +1,5 @@
 # Breakout
-First time making games with python. Made for Hackclub. Initially was supposed to make pong but decided Breakout would be more fun and challenging
+First time making games with python. Made for Hackclub. Initially was supposed to make pong but decided Breakout would be more fun and challenging. Did everything myself, only referenced documentation.
 
 ![breakout_image](breakout_image.png)
 
